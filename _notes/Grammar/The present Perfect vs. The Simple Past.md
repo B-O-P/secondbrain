@@ -4,6 +4,8 @@
 |2. happened at an indefinite past time and affect the present. |2. Tim has traveled alone before, so he's not nervous about his trip to India. | 
 | 3. happened more than once in the past |3. Ken and Takako have been to Peru five times.|
 
+
+
 | Use the simple past for completed actions or situations at a specific past time. | They became parents in 2017. |
 | --- | --- | 
 
