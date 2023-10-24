@@ -19,5 +19,7 @@
 
 ![image](https://github.com/B-O-P/secondbrain/assets/117426928/38d65505-a660-4305-907c-957f2c120e58)
 
-
++ select는 name을 필요로 합니다.
++ select를 눌렀을 때 나오는 것들은 `<option>`이 필요합니다.
++ `<option>`은 솔로태그로 사용할 수 있습니다.
 
